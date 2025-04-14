@@ -127,7 +127,7 @@ The system analyzes human poses through several techniques:
 ## Results and Example Files
 - Sample outputs of the project, including processed videos and log files, can be found at the following Google Drive link:
 
-[**Google Drive Link**](https://drive.google.com/drive/folders/1u8Xxafn2_XAXw-vduyOwAzgEflIgKET4?usp=sharing)
+- [**Google Drive Link**](https://drive.google.com/drive/folders/1u8Xxafn2_XAXw-vduyOwAzgEflIgKET4?usp=sharing)
 
 - In this folder, you will find:
   - Processed video files
